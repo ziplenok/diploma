@@ -4,13 +4,3 @@
   box-sizing: border-box;
   margin: 0 0;
 }
-
-body {
-  min-height: 100vh;
-  line-height: 1.6;
-  font-family: "Didact Gothic", sans-serif;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}

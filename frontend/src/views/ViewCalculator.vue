@@ -460,7 +460,7 @@ $has-text-white: #ffffff;
 $mrg-large: 40px;
 $mrg-small: 40px;
 
-@import "@/assets/main.scss";
+@import "@/assets/variables.scss";
 
 .mrg-b {
   @include mobile {

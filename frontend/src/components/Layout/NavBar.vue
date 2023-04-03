@@ -58,12 +58,14 @@ const showMobileNav = ref(false);
 </script>
 
 <style scoped lang="scss">
-@import "@/assets/main.scss";
 // .navbar-menu
 // {
 // 	background-color: #060D01;
 // 	color: #FFFFFF;
 // }
+nav {
+  // background-image: url("@/assets/img/navbar/navbar-mobile.svg");
+}
 
 @media (max-width: 1023px) {
   .navbar-menu {
